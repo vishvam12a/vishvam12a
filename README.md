@@ -1,44 +1,44 @@
-# Vishvam J. Joshi
+<!-- Mossier '88 Banner -->
+<p align="center">
+  <img src="mossier88-banner.png" alt="Mossier '88 Banner" width="90%">
+</p>
 
-![Banner](https://source.unsplash.com/1600x400/?cybersecurity,technology)
+<h1 align="center">Hi, I'm Vishvam 👋</h1>
 
-Hello! I'm **Vishvam J. Joshi**, a passionate Cybersecurity Technician and hands-on Digital Forensics enthusiast. I specialize in malware analysis, OSINT, secure development, and forensic investigations.
-
-## About Me
-
-- 🛡️ Certified Cybersecurity Technician (EC-Council)
-- 🧪 DFIR Intern at CID Crime Gujarat Police
-- 🌱 Learning every day: reverse engineering, threat intelligence & security tooling
-- 👋 Let's connect: [LinkedIn](https://www.linkedin.com/in/vishvam-j-joshi) | [Email Me](mailto:vjjoshi2005@gmail.com)
-
-## Skills
-
-- **Cybersecurity:** Digital Forensics, Malware Analysis, Threat Hunting, OSINT
-- **Programming:** Python, C/C++, Bash
-- **Tools:** Linux, UFED, FTK Imager, Autopsy, PfSense
-- **Focus Areas:** Network Security, Application Security, DevSecOps
-
-![Skills in Action](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
-## Projects
-
-- [**OSINT Tool Project**](https://github.com/vishvam12a/Osinttool_project)  
-  Search for leaked usernames and gather intelligence to support cybersecurity investigations. Designed with privacy and efficiency in mind.
-
-- [**Telepass**](https://github.com/vishvam12a/Telepass.git)  
-  A Telegram-based password manager using 2048-bit RSA encryption with secure key storage and user-specific isolation.
-
-- [**AWS Rekognition System**](https://github.com/vishvam12a/image-and-video-rekognition-with-aws-main)  
-  Automates image and video recognition using AWS Rekognition and Python-based workflows.
-
-## Contact
-
-- **GitHub:** [vishvam12a](https://github.com/vishvam12a)
-- **LinkedIn:** [vishvam-j-joshi](https://www.linkedin.com/in/vishvam-j-joshi)
-- **Email:** [vjjoshi2005@gmail.com](mailto:vjjoshi2005@gmail.com)
+<p align="center">
+  <b>Cybersecurity Enthusiast 🕶️ | Certified Cybersecurity Technician 🛡️</b><br>
+  <i>I love breaking stuff to make it stronger 🧠💥</i>
+</p>
 
 ---
 
-Thanks for visiting my profile! Always open to learning, collaborating, and building secure tech together.
+### 🧠 About Me
+- 🔐 Focused on cybersecurity, ethical hacking, and network defense
+- 🛠️ Building cool security tools and automation scripts
+- 🌐 Exploring cyber threats, malware analysis, and reverse engineering
+- 💬 Ask me about infosec, CTFs, or tech memes 🤓
 
-![Footer Fun](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+---
+
+### 🚀 My Toolkit
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark)
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)
+![Nmap](https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=data:image/svg+xml;base64,...)
+
+---
+
+### 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishvamjoshi/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/vishvam12a)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishvam12a&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishvam12a&theme=tokyonight" alt="GitHub Streak" />
+</p>
