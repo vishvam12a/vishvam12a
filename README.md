@@ -24,36 +24,6 @@
 
 ---
 
-### 🛠️ My Toolkit
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Digital%20Forensics-05122A?style=flat&logo=detective" alt="Digital Forensics" height="30"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Network%20Penetration%20Testing-05122A?style=flat&logo=network" alt="Network Penetration Testing" height="30"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/-Mobile%20App%20Penetration%20Testing-05122A?style=flat&logo=smartphone-tablet" alt="Mobile App Penetration Testing" height="30"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Web%20App%20Penetration%20Testing-05122A?style=flat&logo=web" alt="Web App Penetration Testing" height="30"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/-Cloud%20Penetration%20Testing-05122A?style=flat&logo=cloud" alt="Cloud Penetration Testing" height="30"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-API%20Penetration%20Testing-05122A?style=flat&logo=link" alt="API Penetration Testing" height="30"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/-Source%20Code%20Review-05122A?style=flat&logo=code" alt="Source Code Review" height="30"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-VAPT-05122A?style=flat&logo=security-checked" alt="VAPT" height="30"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/-Red%20Team%20Operations-05122A?style=flat&logo=hacker" alt="Red Team Operations" height="30"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Full-Stack%20Web%20Development-05122A?style=flat&logo=development-skill" alt="Full-Stack Web Development" height="30"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/-Cryptography-05122A?style=flat&logo=lock" alt="Cryptography" height="30"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Encryption-05122A?style=flat&logo=key" alt="Encryption" height="30"/>
-</p>
-
----
-
 ### 📂 Repository Overview
 
 Below you'll find an overview of my most prominent projects and contributions:
