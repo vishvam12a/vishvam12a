@@ -3,7 +3,7 @@
   <img src="mossier88-banner.png" alt="Mossier '88 Banner" width="90%">
 </p>
 
-<h1 align="center">Hi, I'm Vishvam 👋</h1>
+<h1 align="center">Hi, I'm V.J.Joshi 👋</h1>
 
 <p align="center">
   <b>Cybersecurity Enthusiast | Certified Cybersecurity Technician 🛡️</b><br>
@@ -17,7 +17,7 @@
 🔍 I'm a cybersecurity practitioner passionate about understanding the adversary’s mindset. I specialize in identifying vulnerabilities, building secure systems, and automating security tasks using Python and other tools. My projects often explore OSINT, penetration testing, and malware triage.
 
 🚀 Currently focusing on:
-- Network security and packet analysis
+- Network security and analysis
 - Threat intelligence and malware research
 - Building ethical hacking tools and CTF challenges
 - Staying sharp with hands-on labs and write-ups
@@ -31,11 +31,11 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" />
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/96/wireshark.png" alt="Wireshark" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="60" />
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/ios-filled/100/terminal.png" alt="Bash" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" />
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-nmap-a-free-and-open-source-network-scanner-used-to-discover-hosts-logo-color-tal-revivo.png" alt="Nmap" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" />
 </p>
 
 ---
@@ -51,14 +51,9 @@
     <img src="https://img.icons8.com/ios-filled/100/1DA1F2/twitterx--v1.png" alt="Twitter / X" width="50px" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="tel:+911234567890">
-    <img src="https://img.icons8.com/ios-filled/100/4CAF50/phone.png" alt="Phone" width="50px" />
-  </a>
 </p>
 
-<p align="center">
-  <i>📞 +91 12345 67890</i> <!-- Replace with your real number if you wish -->
-</p>
+
 
 ---
 
