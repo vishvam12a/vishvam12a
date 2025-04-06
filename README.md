@@ -22,17 +22,21 @@
 - Building ethical hacking tools and CTF challenges
 - Staying sharp with hands-on labs and write-ups
 
-📚 Outside of the terminal, I enjoy capturing flags, learning about digital forensics, and experimenting with new open-source tools.
-
 ---
 
 ### 🛠️ My Toolkit
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark)
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)
-![Nmap](https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=data:image/svg+xml;base64,...)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" />
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/wireshark.png" alt="Wireshark" width="60" />
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/100/terminal.png" alt="Bash" width="60" />
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-nmap-a-free-and-open-source-network-scanner-used-to-discover-hosts-logo-color-tal-revivo.png" alt="Nmap" width="60" />
+</p>
 
 ---
 
