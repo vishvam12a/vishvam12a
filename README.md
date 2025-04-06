@@ -1,6 +1,6 @@
 <!-- Mossier '88 Banner -->
 <p align="center">
-  <img src="mossier88-banner.png" alt="Mossier '88 Banner" width="90%">
+  <img src="mossier88-banner.png" alt="Mossier '88 Banner" height="70%" width="90%">
 </p>
 
 <h1 align="center">Hi, I'm V.J.Joshi 👋</h1>
