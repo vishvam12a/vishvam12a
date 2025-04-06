@@ -28,7 +28,7 @@
 
 <p align="center">
   <!-- Row 1 -->
-  <img src="https://img.icons8.com/color/48/magnifying-glass.png" alt="Digital Forensics" title="Digital Forensics" width="40px" />
+  <img src="https://img.icons8.com/color/48/magnifying-glass--v2.png" alt="Digital Forensics" title="Digital Forensics" width="40px" />
   &nbsp;&nbsp;
   <span style="vertical-align:middle;">Digital Forensics</span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -64,7 +64,7 @@
   <span style="vertical-align:middle;">VAPT</span>
   <br/><br/>
   <!-- Row 5 -->
-  <img src="https://img.icons8.com/color/48/spy.png" alt="Red Team Operations" title="Red Team Operations" width="40px" />
+  <img src="https://img.icons8.com/color/48/spy--v2.png" alt="Red Team Operations" title="Red Team Operations" width="40px" />
   &nbsp;&nbsp;
   <span style="vertical-align:middle;">Red Team Operations</span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -81,8 +81,6 @@
   &nbsp;&nbsp;
   <span style="vertical-align:middle;">Encryption</span>
 </p>
-
-
 ---
 
 ### 📂 Repository Overview
