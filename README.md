@@ -26,33 +26,64 @@
 
 ### 🛠️ My Toolkit
 
+### 🛠️ My Toolkit
+
 <p align="center">
-  <!-- Existing Tools -->
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python" height="30"/>
+  <!-- Row 1 -->
+  <img src="https://img.icons8.com/fluency/48/000000/magnifying-glass.png" alt="Digital Forensics" title="Digital Forensics" width="40px" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" alt="Linux" height="30"/>
+  <span style="vertical-align:middle;">Digital Forensics</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/000000/network.png" alt="Network Penetration Testing" title="Network Penetration Testing" width="40px" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash" alt="Bash" height="30"/>
+  <span style="vertical-align:middle;">Network Penetration Testing</span>
+  <br/><br/>
+  <!-- Row 2 -->
+  <img src="https://img.icons8.com/ios-filled/50/000000/smartphone-tablet.png" alt="Mobile Application Penetration Testing" title="Mobile Application Penetration Testing" width="40px" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="Docker" height="30"/>
+  <span style="vertical-align:middle;">Mobile Application Penetration Testing</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/000000/web.png" alt="Web Application Penetration Testing" title="Web Application Penetration Testing" width="40px" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SourceCode-Review?style=flat&logo=nmap" alt="SourceCode-Review" height="30"/>
+  <span style="vertical-align:middle;">Web Application Penetration Testing</span>
+  <br/><br/>
+  <!-- Row 3 -->
+  <img src="https://img.icons8.com/ios-filled/50/000000/cloud.png" alt="Cloud Penetration Testing" title="Cloud Penetration Testing" width="40px" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark" alt="Wireshark" height="30"/>
+  <span style="vertical-align:middle;">Cloud Penetration Testing</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/000000/link.png" alt="API Penetration Testing" title="API Penetration Testing" width="40px" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Metasploit-05122A?style=flat&logo=metasploit" alt="Metasploit" height="30"/>
+  <span style="vertical-align:middle;">API Penetration Testing</span>
+  <br/><br/>
+  <!-- Row 4 -->
+  <img src="https://img.icons8.com/ios-filled/50/000000/code.png" alt="Source Code Review" title="Source Code Review" width="40px" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kali" alt="Kali Linux" height="30"/>
+  <span style="vertical-align:middle;">Source Code Review</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/000000/security-checked.png" alt="VAPT" title="VAPT" width="40px" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-VirtualBox-05122A?style=flat&logo=virtualbox" alt="VirtualBox" height="30"/>
+  <span style="vertical-align:middle;">Vulnerability Assessment and Penetration Testing (VAPT)</span>
+  <br/><br/>
+  <!-- Row 5 -->
+  <img src="https://img.icons8.com/ios-filled/50/000000/spy.png" alt="Red Team Operations" title="Red Team Operations" width="40px" />
   &nbsp;&nbsp;
-  <!-- New Tools -->
-  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="TypeScript" height="30"/>
+  <span style="vertical-align:middle;">Red Team Operations</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/000000/development-skill.png" alt="Full-Stack Web Development" title="Full-Stack Web Development" width="40px" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-AWS%20Cloud-05122A?style=flat&logo=amazonaws" alt="AWS Cloud" height="30"/>
+  <span style="vertical-align:middle;">Full-Stack Web Development</span>
+  <br/><br/>
+  <!-- Row 6 -->
+  <img src="https://img.icons8.com/ios-filled/50/000000/lock--v1.png" alt="Cryptography" title="Cryptography" width="40px" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" alt="MongoDB" height="30"/>
+  <span style="vertical-align:middle;">Cryptography</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/000000/key.png" alt="Encryption" title="Encryption" width="40px" />
+  &nbsp;&nbsp;
+  <span style="vertical-align:middle;">Encryption</span>
 </p>
+
 
 ---
 
