@@ -26,7 +26,7 @@
 
 ### 🛠️ My Toolkit
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/-Digital%20Forensics-05122A?style=flat&logo=detective" alt="Digital Forensics" height="30"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Network%20Penetration%20Testing-05122A?style=flat&logo=network" alt="Network Penetration Testing" height="30"/>
