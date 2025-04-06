@@ -3,7 +3,7 @@
   <img src="mossier88-banner.png" alt="Mossier '88 Banner" width="90%">
 </p>
 
-<h1 align="center">Hi, I'm V.J.Joshi 👋</h1>
+<h1 align="center">Hi, I'm Vishvam 👋</h1>
 
 <p align="center">
   <b>Cybersecurity Enthusiast | Certified Cybersecurity Technician 🛡️</b><br>
@@ -27,33 +27,42 @@
 ### 🛠️ My Toolkit
 
 <p align="center">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" />
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python" height="30"/>
   &nbsp;&nbsp;
-  <!-- Linux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" />
+  <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" alt="Linux" height="30"/>
   &nbsp;&nbsp;
-  <!-- Bash -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="60" />
+  <img src="https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash" alt="Bash" height="30"/>
   &nbsp;&nbsp;
-  <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" />
+  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="Docker" height="30"/>
   &nbsp;&nbsp;
-  <!-- Nmap -->
-  <img src="https://cdn.simpleicons.org/nmap/008000" alt="Nmap" width="60" />
+  <img src="https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=nmap" alt="Nmap" height="30"/>
   &nbsp;&nbsp;
-  <!-- Wireshark -->
-  <img src="https://cdn.simpleicons.org/wireshark/05B8CC" alt="Wireshark" width="60" />
+  <img src="https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark" alt="Wireshark" height="30"/>
   &nbsp;&nbsp;
-  <!-- Metasploit -->
-  <img src="https://cdn.simpleicons.org/metasploit/EE0000" alt="Metasploit" width="60" />
+  <img src="https://img.shields.io/badge/-Metasploit-05122A?style=flat&logo=metasploit" alt="Metasploit" height="30"/>
   &nbsp;&nbsp;
-  <!-- Kali Linux -->
-  <img src="https://cdn.simpleicons.org/kali-linux/557C94" alt="Kali Linux" width="60" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kali" alt="Kali Linux" height="30"/>
   &nbsp;&nbsp;
-  <!-- VirtualBox -->
-  <img src="https://cdn.simpleicons.org/virtualbox/183A61" alt="VirtualBox" width="60" />
+  <img src="https://img.shields.io/badge/-VirtualBox-05122A?style=flat&logo=virtualbox" alt="VirtualBox" height="30"/>
 </p>
+
+---
+
+### 📂 Repository Overview
+
+Below you'll find an overview of my most prominent projects and contributions:
+
+- **[OSINT Tool Project](https://github.com/vishvam12a/Osinttool_project)**  
+  A robust OSINT API for leaked username searches, designed with scalability and privacy in mind.
+  
+- **[Telepass](https://github.com/vishvam12a/Telepass.git)**  
+  A secure Telegram-based password manager featuring 2048-bit RSA encryption and comprehensive key management.
+  
+- **[AWS Rekognition System](https://github.com/vishvam12a/image-and-video-rekognition-with-aws-main)**  
+  An automated image and video analysis system utilizing AWS Rekognition and Python-based data workflows.
+  
+- **Other Projects:**  
+  Check out my GitHub profile for more security-related repositories and contributions.
 
 ---
 
