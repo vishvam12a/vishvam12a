@@ -64,7 +64,7 @@
   <span style="vertical-align:middle;">VAPT</span>
   <br/><br/>
   <!-- Row 5: Using "hacker" icon for Red Team Operations -->
-  <img src="https://img.icons8.com/color/48/spy.png" alt="Red Team Operations" title="Red Team Operations" width="40px" />
+  <img src="" alt="Red Team Operations" title="Red Team Operations" width="40px" />
   &nbsp;&nbsp;
   <span style="vertical-align:middle;">Red Team Operations</span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
