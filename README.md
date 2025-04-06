@@ -81,6 +81,7 @@
   &nbsp;&nbsp;
   <span style="vertical-align:middle;">Encryption</span>
 </p>
+
 ---
 
 ### 📂 Repository Overview
