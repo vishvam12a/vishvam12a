@@ -27,8 +27,8 @@
 ### 🛠️ My Toolkit
 
 <p align="center">
-  <!-- Row 1 -->
-  <img src="https://img.icons8.com/color/48/magnifying-glass--v2.png" alt="Digital Forensics" title="Digital Forensics" width="40px" />
+  <!-- Row 1: Using "detective" icon for Digital Forensics -->
+  <img src="https://img.icons8.com/color/48/detective.png" alt="Digital Forensics" title="Digital Forensics" width="40px" />
   &nbsp;&nbsp;
   <span style="vertical-align:middle;">Digital Forensics</span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,11 +39,11 @@
   <!-- Row 2 -->
   <img src="https://img.icons8.com/color/48/smartphone-tablet.png" alt="Mobile Application Penetration Testing" title="Mobile Application Penetration Testing" width="40px" />
   &nbsp;&nbsp;
-  <span style="vertical-align:middle;">Mobile Application Penetration Testing</span>
+  <span style="vertical-align:middle;">Mobile App Penetration Testing</span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/web.png" alt="Web Application Penetration Testing" title="Web Application Penetration Testing" width="40px" />
   &nbsp;&nbsp;
-  <span style="vertical-align:middle;">Web Application Penetration Testing</span>
+  <span style="vertical-align:middle;">Web App Penetration Testing</span>
   <br/><br/>
   <!-- Row 3 -->
   <img src="https://img.icons8.com/color/48/cloud.png" alt="Cloud Penetration Testing" title="Cloud Penetration Testing" width="40px" />
@@ -63,8 +63,8 @@
   &nbsp;&nbsp;
   <span style="vertical-align:middle;">VAPT</span>
   <br/><br/>
-  <!-- Row 5 -->
-  <img src="https://img.icons8.com/color/48/spy--v2.png" alt="Red Team Operations" title="Red Team Operations" width="40px" />
+  <!-- Row 5: Using "hacker" icon for Red Team Operations -->
+  <img src="https://img.icons8.com/color/48/hacker.png" alt="Red Team Operations" title="Red Team Operations" width="40px" />
   &nbsp;&nbsp;
   <span style="vertical-align:middle;">Red Team Operations</span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
