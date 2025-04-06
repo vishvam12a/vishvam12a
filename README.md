@@ -27,59 +27,29 @@
 ### 🛠️ My Toolkit
 
 <p align="center">
-  <!-- Row 1: Using "detective" icon for Digital Forensics -->
-  <img src="https://img.icons8.com/color/48/detective.png" alt="Digital Forensics" title="Digital Forensics" width="40px" />
+  <img src="https://img.shields.io/badge/-Digital%20Forensics-05122A?style=flat&logo=detective" alt="Digital Forensics" height="30"/>
   &nbsp;&nbsp;
-  <span style="vertical-align:middle;">Digital Forensics</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/network.png" alt="Network Penetration Testing" title="Network Penetration Testing" width="40px" />
-  &nbsp;&nbsp;
-  <span style="vertical-align:middle;">Network Penetration Testing</span>
+  <img src="https://img.shields.io/badge/-Network%20Penetration%20Testing-05122A?style=flat&logo=network" alt="Network Penetration Testing" height="30"/>
   <br/><br/>
-  <!-- Row 2 -->
-  <img src="https://img.icons8.com/color/48/smartphone-tablet.png" alt="Mobile Application Penetration Testing" title="Mobile Application Penetration Testing" width="40px" />
+  <img src="https://img.shields.io/badge/-Mobile%20App%20Penetration%20Testing-05122A?style=flat&logo=smartphone-tablet" alt="Mobile App Penetration Testing" height="30"/>
   &nbsp;&nbsp;
-  <span style="vertical-align:middle;">Mobile App Penetration Testing</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/web.png" alt="Web Application Penetration Testing" title="Web Application Penetration Testing" width="40px" />
-  &nbsp;&nbsp;
-  <span style="vertical-align:middle;">Web App Penetration Testing</span>
+  <img src="https://img.shields.io/badge/-Web%20App%20Penetration%20Testing-05122A?style=flat&logo=web" alt="Web App Penetration Testing" height="30"/>
   <br/><br/>
-  <!-- Row 3 -->
-  <img src="https://img.icons8.com/color/48/cloud.png" alt="Cloud Penetration Testing" title="Cloud Penetration Testing" width="40px" />
+  <img src="https://img.shields.io/badge/-Cloud%20Penetration%20Testing-05122A?style=flat&logo=cloud" alt="Cloud Penetration Testing" height="30"/>
   &nbsp;&nbsp;
-  <span style="vertical-align:middle;">Cloud Penetration Testing</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/link.png" alt="API Penetration Testing" title="API Penetration Testing" width="40px" />
-  &nbsp;&nbsp;
-  <span style="vertical-align:middle;">API Penetration Testing</span>
+  <img src="https://img.shields.io/badge/-API%20Penetration%20Testing-05122A?style=flat&logo=link" alt="API Penetration Testing" height="30"/>
   <br/><br/>
-  <!-- Row 4 -->
-  <img src="https://img.icons8.com/color/48/code.png" alt="Source Code Review" title="Source Code Review" width="40px" />
+  <img src="https://img.shields.io/badge/-Source%20Code%20Review-05122A?style=flat&logo=code" alt="Source Code Review" height="30"/>
   &nbsp;&nbsp;
-  <span style="vertical-align:middle;">Source Code Review</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/security-checked.png" alt="VAPT" title="VAPT" width="40px" />
-  &nbsp;&nbsp;
-  <span style="vertical-align:middle;">VAPT</span>
+  <img src="https://img.shields.io/badge/-VAPT-05122A?style=flat&logo=security-checked" alt="VAPT" height="30"/>
   <br/><br/>
-  <!-- Row 5: Using "hacker" icon for Red Team Operations -->
-  <img src="" alt="Red Team Operations" title="Red Team Operations" width="40px" />
+  <img src="https://img.shields.io/badge/-Red%20Team%20Operations-05122A?style=flat&logo=hacker" alt="Red Team Operations" height="30"/>
   &nbsp;&nbsp;
-  <span style="vertical-align:middle;">Red Team Operations</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/development-skill.png" alt="Full-Stack Web Development" title="Full-Stack Web Development" width="40px" />
-  &nbsp;&nbsp;
-  <span style="vertical-align:middle;">Full-Stack Web Development</span>
+  <img src="https://img.shields.io/badge/-Full-Stack%20Web%20Development-05122A?style=flat&logo=development-skill" alt="Full-Stack Web Development" height="30"/>
   <br/><br/>
-  <!-- Row 6 -->
-  <img src="https://img.icons8.com/color/48/lock.png" alt="Cryptography" title="Cryptography" width="40px" />
+  <img src="https://img.shields.io/badge/-Cryptography-05122A?style=flat&logo=lock" alt="Cryptography" height="30"/>
   &nbsp;&nbsp;
-  <span style="vertical-align:middle;">Cryptography</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/key.png" alt="Encryption" title="Encryption" width="40px" />
-  &nbsp;&nbsp;
-  <span style="vertical-align:middle;">Encryption</span>
+  <img src="https://img.shields.io/badge/-Encryption-05122A?style=flat&logo=key" alt="Encryption" height="30"/>
 </p>
 
 ---
