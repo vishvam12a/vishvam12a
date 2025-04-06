@@ -6,21 +6,28 @@
 <h1 align="center">Hi, I'm Vishvam 👋</h1>
 
 <p align="center">
-  <b>Cybersecurity Enthusiast 🕶️ | Certified Cybersecurity Technician 🛡️</b><br>
-  <i>I love breaking stuff to make it stronger 🧠💥</i>
+  <b>Cybersecurity Enthusiast | Certified Cybersecurity Technician 🛡️</b><br>
+  <i>Driven by curiosity, fueled by code, and obsessed with digital defense.</i>
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🔐 Focused on cybersecurity, ethical hacking, and network defense
-- 🛠️ Building cool security tools and automation scripts
-- 🌐 Exploring cyber threats, malware analysis, and reverse engineering
-- 💬 Ask me about infosec, CTFs, or tech memes 🤓
+
+🔍 I'm a cybersecurity practitioner passionate about understanding the adversary’s mindset. I specialize in identifying vulnerabilities, building secure systems, and automating security tasks using Python and other tools. My projects often explore OSINT, penetration testing, and malware triage.
+
+🚀 Currently focusing on:
+- Network security and packet analysis
+- Threat intelligence and malware research
+- Building ethical hacking tools and CTF challenges
+- Staying sharp with hands-on labs and write-ups
+
+📚 Outside of the terminal, I enjoy capturing flags, learning about digital forensics, and experimenting with new open-source tools.
 
 ---
 
-### 🚀 My Toolkit
+### 🛠️ My Toolkit
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark)
@@ -29,11 +36,29 @@
 
 ---
 
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishvamjoshi/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/vishvam12a)
+### 📡 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishvamjoshi/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/100/0A66C2/linkedin.png" alt="LinkedIn" width="50px" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/VishvamJ45224" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/100/1DA1F2/twitterx--v1.png" alt="Twitter / X" width="50px" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="tel:+911234567890">
+    <img src="https://img.icons8.com/ios-filled/100/4CAF50/phone.png" alt="Phone" width="50px" />
+  </a>
+</p>
+
+<p align="center">
+  <i>📞 +91 12345 67890</i> <!-- Replace with your real number if you wish -->
+</p>
 
 ---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishvam12a&show_icons=true&theme=radical" alt="GitHub Stats" />
