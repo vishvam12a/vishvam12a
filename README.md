@@ -58,10 +58,6 @@ Below you'll find an overview of my most prominent projects and contributions:
   </a>
 </p>
 
-<p align="center">
-  <i>📞 +91 12345 67890</i> <!-- Replace with your actual number -->
-</p>
-
 ---
 
 ### 📊 GitHub Stats
