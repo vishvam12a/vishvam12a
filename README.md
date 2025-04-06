@@ -52,10 +52,6 @@ Below you'll find an overview of my most prominent projects and contributions:
   <a href="https://x.com/VishvamJ45224" target="_blank">
     <img src="https://img.icons8.com/ios-filled/100/1DA1F2/twitterx--v1.png" alt="Twitter / X" width="50px" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="tel:+911234567890">
-    <img src="https://img.icons8.com/ios-filled/100/4CAF50/phone.png" alt="Phone" width="50px" />
-  </a>
 </p>
 
 ---
