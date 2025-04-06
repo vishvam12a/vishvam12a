@@ -27,6 +27,7 @@
 ### 🛠️ My Toolkit
 
 <p align="center">
+  <!-- Existing Tools -->
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python" height="30"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" alt="Linux" height="30"/>
@@ -44,6 +45,13 @@
   <img src="https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kali" alt="Kali Linux" height="30"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-VirtualBox-05122A?style=flat&logo=virtualbox" alt="VirtualBox" height="30"/>
+  &nbsp;&nbsp;
+  <!-- New Tools -->
+  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="TypeScript" height="30"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-AWS%20Cloud-05122A?style=flat&logo=amazonaws" alt="AWS Cloud" height="30"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" alt="MongoDB" height="30"/>
 </p>
 
 ---
