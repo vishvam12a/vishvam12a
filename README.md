@@ -28,7 +28,7 @@
 ### 📡 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishvamjoshi/" target="_blank">
+  <a href="https://www.linkedin.com/in/vishvam-j-joshi/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/100/0A66C2/linkedin.png" alt="LinkedIn" width="50px" />
   </a>
   &nbsp;&nbsp;&nbsp;
