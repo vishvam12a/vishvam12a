@@ -24,23 +24,6 @@
 
 ---
 
-### 📂 Repository Overview
-
-Below you'll find an overview of my most prominent projects and contributions:
-
-- **[OSINT Tool Project](https://github.com/vishvam12a/Osinttool_project)**  
-  A robust OSINT API for leaked username searches, designed with scalability and privacy in mind.
-  
-- **[Telepass](https://github.com/vishvam12a/Telepass.git)**  
-  A secure Telegram-based password manager featuring 2048-bit RSA encryption and comprehensive key management.
-  
-- **[AWS Rekognition System](https://github.com/vishvam12a/image-and-video-rekognition-with-aws-main)**  
-  An automated image and video analysis system utilizing AWS Rekognition and Python-based data workflows.
-  
-- **Other Projects:**  
-  Check out my GitHub profile for more security-related repositories and contributions.
-
----
 
 ### 📡 Connect with Me
 
